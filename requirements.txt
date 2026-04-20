@@ -1,0 +1,12 @@
+pyautogui
+pynput
+easyocr
+numpy
+pyperclip
+openai
+python-dotenv
+plyer
+customtkinter
+CTkMessagebox
+Pillow
+pystray
